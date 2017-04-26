@@ -1,0 +1,19 @@
+{
+  "name": "techtalk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "graphiql": "^0.10.1",
+    "graphql": "^0.9.3",
+    "node-async-loop": "^1.2.2",
+    "request": "^2.81.0"
+  }
+}
