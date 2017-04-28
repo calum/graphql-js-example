@@ -2,8 +2,8 @@
 
 ## How to run
   0. Download and install Node.js
-    * [Using a packet manager (apt, yum, brew, ...)](https://nodejs.org/en/download/package-manager/)
-    * [Windows & Mac/Linux without package manager](https://nodejs.org/en/download/)
+      * [Using a packet manager (apt, yum, brew, ...)](https://nodejs.org/en/download/package-manager/)
+      * [Windows & Mac/Linux without package manager](https://nodejs.org/en/download/)
   1. Using the terminal, clone this repo and cd into the directory
   2. ```$ npm install```
   3. ```$ npm start```
